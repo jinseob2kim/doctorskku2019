@@ -17,7 +17,8 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-      yolo: true 
+      ratio: "16:9" 
+      
 ---
 
 ```{r setup, include=FALSE}
