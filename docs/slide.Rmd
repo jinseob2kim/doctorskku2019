@@ -1,0 +1,105 @@
+---
+title: "의사의 길"
+author: "김진섭"
+date: "February 1, 2019"
+output:
+  slidy_presentation: 
+    df_print: paged
+    duration: 40
+    fig_caption: yes
+    fig_height: 6
+    fig_width: 7
+    font_adjustment: 2
+    footer: '&copy;2018 ANPANMAN Co.,Ltd. All rights reserved.'
+    highlight: tango
+    theme: readable
+subtitle: ANPANMAN Co.,Ltd
+editor_options:
+  chunk_output_type: console
+---
+
+<style>
+p.caption {
+  font-size: 0.2em;
+}
+</style>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+library(knitr);library(DT);library(dplyr);library(epiDisplay);library(data.table)
+```
+
+
+
+# Executive Summary 
+
+
+맞춤형 의학연구 애플리케이션을 위해
+
+
+
+    
+
+
+# 1. 마이크로서비스 아키텍처 
+
+#
+
+
+
+# Q & A {.bigger}
+
+# 1. 언제 이 길로 온걸 가장 잘했다고 느끼나.
+
+* 의사를 다시 하고싶다는 생각? 
+
+* 전통적인 의사의 길이 아닌 것에 후회?
+
+# 2. 통계와 프로그래밍 도전 
+
+# 3. Anpanman 뜻
+
+방탄소년단 노래 제목 
+
+```{r, out.width= "80%", fig.cap ="https://i.ytimg.com/vi/pWVtB0ZNn0w/maxresdefault.jpg"}
+include_graphics("https://i.ytimg.com/vi/pWVtB0ZNn0w/maxresdefault.jpg")
+```
+
+
+# 
+
+일본 애니메이션 - 호빵맨
+
+```{r, out.width= "60%", fig.cap ="http://www.ntv.co.jp/english/pc/user_images/Anpanman_New_Sample_0907_logo.jpg"}
+include_graphics("http://www.ntv.co.jp/english/pc/user_images/Anpanman_New_Sample_0907_logo.jpg")
+```
+
+#
+
+소시민적 영웅
+
+```{r, out.width= "60%", fig.cap ="https://cdn.univ20.com/wp-content/uploads/2015/09/6ad068981c0b84b8dc197ebd9b44bd2a.jpg"}
+include_graphics("https://cdn.univ20.com/wp-content/uploads/2015/09/6ad068981c0b84b8dc197ebd9b44bd2a.jpg")
+```
+
+# 4. 창업에 관심생긴 계기
+
+삼성전자 사내벤처 프로그램 C-lab
+
+```{r, out.width= "60%", fig.cap ="http://img.segye.com/content/image/2018/11/13/20181113003836_0.jpg"}
+include_graphics("http://img.segye.com/content/image/2018/11/13/20181113003836_0.jpg")
+```
+
+
+#
+
+[WELT](https://www.weltcorp.com/)
+
+```{r, out.width= "60%", fig.cap ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMwWnFkSB64-AzQn0dC2s6LHYmut4eRPeQBXmuz6xE3lIAnMy2"}
+include_graphics("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMwWnFkSB64-AzQn0dC2s6LHYmut4eRPeQBXmuz6xE3lIAnMy2")
+```
+
+
+
+
