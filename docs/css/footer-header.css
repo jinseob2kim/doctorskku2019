@@ -10,7 +10,7 @@ div.my-header {
 }
 
 div.my-footer {
-    background-color: #ffffff;
+    background-color: #272822;
     position: absolute;
     bottom: 0px;
     left: 0px;
@@ -19,7 +19,7 @@ div.my-footer {
 }
 div.my-footer span {
     font-size: 10pt;
-    color: #000000;
+    color: #F7F8FA;
     position: absolute;
     left: 15px;
     bottom: 2px;
@@ -27,7 +27,7 @@ div.my-footer span {
 
 
 a, a > code {
-  color: #0000ff; /*default: rgb(249, 38, 114); || sets color of links */
+  color: #FF1B70; /*default: rgb(249, 38, 114); || sets color of links */
   text-decoration: none; /* turns off background coloring of links */
 }
 
