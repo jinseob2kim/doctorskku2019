@@ -141,7 +141,19 @@ include_graphics("http://img.segye.com/content/image/2018/11/13/20181113003836_0
 include_graphics("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMwWnFkSB64-AzQn0dC2s6LHYmut4eRPeQBXmuz6xE3lIAnMy2")
 ```
 
+---
 
+# Two-column Layout
+
+.pull-left[
+- a bullet
+- another bullet
+]
+
+.pull-right[
+- a bullet
+- another bullet
+]
 
 
 
