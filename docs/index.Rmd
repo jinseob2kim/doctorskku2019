@@ -2,7 +2,7 @@
 title: "의사의 길"
 subtitle: "성균관의대 학부강의"
 author: "김진섭"
-date: "2019/02/01 (updated: `r Sys.Date()`)"
+date: "2019-02-01 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     css: ["css/footer-header.css", "default"]
