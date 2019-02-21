@@ -61,30 +61,6 @@ class: center, middle
 [![](https://raw.githubusercontent.com/anpanmancorp/Anpanman/master/horizontal_anpanman_transparent.png)](https://www.anpanman.co.kr)
 
 
----
-
-# 방탄소년단 노래 제목 
-
-```{r, out.width= "80%", fig.cap ="https://i.ytimg.com/vi/pWVtB0ZNn0w/maxresdefault.jpg"}
-include_graphics("https://i.ytimg.com/vi/pWVtB0ZNn0w/maxresdefault.jpg")
-```
-
----
-
-# 일본 애니메이션 - 호빵맨
-
-```{r, out.width= "60%", fig.cap ="http://www.ntv.co.jp/english/pc/user_images/Anpanman_New_Sample_0907_logo.jpg"}
-include_graphics("http://www.ntv.co.jp/english/pc/user_images/Anpanman_New_Sample_0907_logo.jpg")
-```
-
----
-
-# 소시민적 영웅
-
-```{r, out.width= "60%", fig.cap ="https://cdn.univ20.com/wp-content/uploads/2015/09/6ad068981c0b84b8dc197ebd9b44bd2a.jpg"}
-include_graphics("https://cdn.univ20.com/wp-content/uploads/2015/09/6ad068981c0b84b8dc197ebd9b44bd2a.jpg")
-```
-
 
 ---
 
